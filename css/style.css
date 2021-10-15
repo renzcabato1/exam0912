@@ -1,0 +1,40 @@
+@font-face { 
+    
+    font-family: bariol-regular; 
+    src: url('Bariol_Regular_0.ttf'); 
+
+}
+body{
+	/* font-family: bariol-regular; */
+}
+a:hover 
+{
+    text-decoration: none;
+}
+
+.modal-welcome
+{
+    border-bottom: 0 none;
+    padding:0px;
+    border-top: 0 none;
+}
+
+
+.first_par
+{
+    font-size:31px;
+    color:black;
+}
+.sec
+{
+    font-size:18px;
+    color:black;
+}
+.footer_links
+{
+    text-decoration: underline;
+    color:white;
+}
+.buttons {
+    all: unset;
+  }
